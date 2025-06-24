@@ -3,8 +3,8 @@
 #include <IRremoteESP8266.h>
 #include <IRsend.h>
 
-const char* ssid = "okay then have a great time";
-const char* password = "siddharthSinhaheheok";
+const char* ssid = "IR BLASTER 123";
+const char* password = "infrared";
 
 const uint16_t irSendPin = 2;
 IRsend irsend(irSendPin);
